@@ -12,6 +12,6 @@ public class welcomeLbrce {
 class  Demo{
 	Demo()
 	{
-		System.out.println("other class of srinu");
+		System.out.println("other class of srinu!");
 	}
 }
