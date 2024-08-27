@@ -10,7 +10,7 @@ public class welcomeLbrce {
 
 }
 class  Demo{
-	Sample()
+	Demo()
 	{
 		System.out.println("other class");
 	}
