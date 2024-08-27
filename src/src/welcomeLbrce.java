@@ -9,3 +9,9 @@ public class welcomeLbrce {
 	}
 
 }
+class  Demo{
+	Sample()
+	{
+		System.out.println("other class");
+	}
+}
